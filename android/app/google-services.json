@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181416264634",
+    "firebase_url": "https://rigx-d7556-default-rtdb.firebaseio.com",
+    "project_id": "rigx-d7556",
+    "storage_bucket": "rigx-d7556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181416264634:android:36eac90cdc96e9bc379383",
+        "android_client_info": {
+          "package_name": "com.example.canabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181416264634-t0ksb5tqtuovvle3h3lfdiv94qeimf5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.canabs",
+            "certificate_hash": "e8bbfffc9984db7799957ad1dc7550693981cfa4"
+          }
+        },
+        {
+          "client_id": "181416264634-lcunf5t2hsn1igelaqutogfuekqpd2dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHSjNYL9s6PKaXfDSvU1vtZBO6JPmPw8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181416264634-lcunf5t2hsn1igelaqutogfuekqpd2dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
